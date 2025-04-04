@@ -1,0 +1,13 @@
+# IDE
+.vscode
+
+# C++ / CUDA
+*.exe
+*.dll
+*.so
+*.dylib
+*.o
+*.a
+*.lib
+*.obj
+*.exp
